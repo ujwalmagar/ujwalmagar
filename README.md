@@ -81,7 +81,7 @@ I'm currently deepening my knowledge of **software architecture, system design, 
 
 ---
 
-# 🎯 Engineering Interests
+#  Engineering Interests
 
 - Backend architecture and API design
 - Authentication and authorization
@@ -96,7 +96,7 @@ I'm currently deepening my knowledge of **software architecture, system design, 
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ### 🟢 Velora
 
